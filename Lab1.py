@@ -2,7 +2,7 @@
 # Course: IT3883/Section W02
 # Student Name: Adam Hutcheson
 # Assignment Number: Lab 1
-# Due Date: 09/05/ 20XX
+# Due Date: 09/05/ 2025
 # Purpose: Create a menu to append, clear, and display user input
 
 # list to append user data
